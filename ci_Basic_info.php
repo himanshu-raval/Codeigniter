@@ -50,6 +50,14 @@ All the methods above will load the whole result into memory (prefetching).
 
 
 
+All Query ::
+-------------
+https://codeigniter.com/user_guide/database/query_builder.html
+
+
+
+
+
 
 
 
